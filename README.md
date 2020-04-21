@@ -46,8 +46,10 @@ Faloutsos*. AAAI 2020.
 
 ## Example
 
+Inside the pyMIDAS directory
+
 ```python
-from pyMIDAS.midas import midas
+from midas import midas
 import pandas as pd
 
 # Load dataset
