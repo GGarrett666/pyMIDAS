@@ -1,10 +1,10 @@
 # MIDAS implementation in Python
 
-Python implementation of C++ code by [Siddharth Bhatia](https://github.com/bhatiasiddharth)
+Python implementation of [C++](https://github.com/bhatiasiddharth/MIDAS) code by [Siddharth Bhatia](https://github.com/bhatiasiddharth)
 
 ## Installation
 
-You can install and use by package by cloning this repository in your project folder:
+You can install and use the package by cloning this repository in your project folder:
 
 ```
 git clone https://github.com/ritesh99rakesh/pyMIDAS.git
